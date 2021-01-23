@@ -1,1 +1,2 @@
-# synchronous-ball-movement-master
+# synchronousBallMovement
+Ball moving synchronously
